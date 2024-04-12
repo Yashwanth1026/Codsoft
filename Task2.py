@@ -1,3 +1,10 @@
+#Hello again welcome this is Yashwanth Reddy!!
+#This is a task in ML internship provided by CODSOFT!!
+#currently this is task -2 Spam SMS detection (April-2024)
+
+# ML model for SMS spam detection using TF-IDF and classification algorithms (Naive Bayes, Logistic Regression, SVM)
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
