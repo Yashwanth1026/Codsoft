@@ -1,3 +1,10 @@
+#Hello again welcome this is Yashwanth Reddy!!
+#This is a task in ML internship provided by CODSOFT!!
+#currently this is task -2 Spam SMS detection (April-2024)
+
+# Customer churn prediction model using historical data and algorithms like Logistic Regression, Random Forests, or Gradient Boosting
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
