@@ -54,7 +54,11 @@ To tackle this task, we adopted the following strategy:
 
 ## Dependencies:
 - Python 3.x
-- [Add any additional dependencies as needed]
+- Numpy
+- Skitlearn
+- Matplotlib
+- tqdm
+- Pandas
 
 ## Contributors:
 -Yashwanth reddy
